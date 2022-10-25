@@ -2,4 +2,4 @@ from typing import Any
 
 def hello(req: Any):
     # Your function implementation goes here
-    return "Hello World!"
+    return "osbm 131-build4"
